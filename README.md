@@ -108,9 +108,4 @@ This project is licensed under the MIT License
 
 👉 [Gajalakshmi A K](https://github.com/Gajoshana2910)
 
-<<<<<<< HEAD
-=======
-=======
- 
->>>>>>> 081b8f6 (Initial commit - Web Scraping ETL Pipeline)
->>>>>>> 13bec14 (Initial commit - Web Scraping ETL Pipeline)
+
