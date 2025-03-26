@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 13bec14 (Initial commit - Web Scraping ETL Pipeline)
 # 🛠️ Web Scraping ETL Pipeline  
 
 This project is a simple **ETL (Extract, Transform, Load) pipeline** that scrapes quotes from [Quotes to Scrape](https://quotes.toscrape.com), cleans the data, and saves it to a CSV file.  
@@ -104,3 +108,9 @@ This project is licensed under the MIT License
 
 👉 [Gajalakshmi A K](https://github.com/Gajoshana2910)
 
+<<<<<<< HEAD
+=======
+=======
+ 
+>>>>>>> 081b8f6 (Initial commit - Web Scraping ETL Pipeline)
+>>>>>>> 13bec14 (Initial commit - Web Scraping ETL Pipeline)

@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+ 
+=======
+ 
+>>>>>>> 081b8f6 (Initial commit - Web Scraping ETL Pipeline)
+=======
+# Ignore Python virtual environment
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore CSV output files
+*.csv
+
+# Ignore environment variables file
+.env
+>>>>>>> 9041590 (Added .gitignore to exclude venv and cache files)
